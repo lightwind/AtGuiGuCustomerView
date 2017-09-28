@@ -1,1 +1,1 @@
-include ':01_youkudemo', ':PropertyAnimation', ':02_viewpagerdemo', ':03_popupwindow', ':04_togglebutton', ':05_autoattribute', ':06-myviewpager', ':EventTest', ':事件分发小案例', ':cusViewPager02'
+include ':01_youkudemo', ':PropertyAnimation', ':02_viewpagerdemo', ':03_popupwindow', ':04_togglebutton', ':05_autoattribute', ':06-myviewpager', ':EventTest', ':事件分发小案例', ':cusViewPager02', ':07_quickindex'

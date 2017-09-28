@@ -1,4 +1,0 @@
-#Thu Sep 28 14:01:03 CST 2017
-base.0=D\:\\Project\\ASWorkSpace\\CustomerView\\事件分发小案例\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=D\:\\Project\\ASWorkSpace\\CustomerView\\事件分发小案例\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
