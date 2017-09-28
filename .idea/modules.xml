@@ -4,8 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01_youkudemo/01_youkudemo.iml" filepath="$PROJECT_DIR$/01_youkudemo/01_youkudemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_viewpagerdemo/02_viewpagerdemo.iml" filepath="$PROJECT_DIR$/02_viewpagerdemo/02_viewpagerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_popupwindow/03_popupwindow.iml" filepath="$PROJECT_DIR$/03_popupwindow/03_popupwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_togglebutton/04_togglebutton.iml" filepath="$PROJECT_DIR$/04_togglebutton/04_togglebutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_autoattribute/05_autoattribute.iml" filepath="$PROJECT_DIR$/05_autoattribute/05_autoattribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-myviewpager/06-myviewpager.iml" filepath="$PROJECT_DIR$/06-myviewpager/06-myviewpager.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomerView.iml" filepath="$PROJECT_DIR$/CustomerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventTest/EventTest.iml" filepath="$PROJECT_DIR$/EventTest/EventTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/PropertyAnimation/PropertyAnimation.iml" filepath="$PROJECT_DIR$/PropertyAnimation/PropertyAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cusViewPager02/cusViewPager02.iml" filepath="$PROJECT_DIR$/cusViewPager02/cusViewPager02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/事件分发小案例/事件分发小案例.iml" filepath="$PROJECT_DIR$/事件分发小案例/事件分发小案例.iml" />
     </modules>
   </component>
 </project>

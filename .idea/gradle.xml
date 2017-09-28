@@ -10,7 +10,14 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/01_youkudemo" />
             <option value="$PROJECT_DIR$/02_viewpagerdemo" />
+            <option value="$PROJECT_DIR$/03_popupwindow" />
+            <option value="$PROJECT_DIR$/04_togglebutton" />
+            <option value="$PROJECT_DIR$/05_autoattribute" />
+            <option value="$PROJECT_DIR$/06-myviewpager" />
+            <option value="$PROJECT_DIR$/EventTest" />
             <option value="$PROJECT_DIR$/PropertyAnimation" />
+            <option value="$PROJECT_DIR$/cusViewPager02" />
+            <option value="$PROJECT_DIR$/事件分发小案例" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

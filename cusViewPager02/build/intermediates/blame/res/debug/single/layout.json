@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\CustomView2\\cusViewPager02\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\AndroidStudioProjects\\CustomView2\\cusViewPager02\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Project\\ASWorkSpace\\CustomerView\\cusViewPager02\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "D:\\Project\\ASWorkSpace\\CustomerView\\cusViewPager02\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "D:\\Project\\ASWorkSpace\\CustomerView\\cusViewPager02\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Project\\ASWorkSpace\\CustomerView\\cusViewPager02\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\CustomView2\\cusViewPager02\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "C:\\AndroidStudioProjects\\CustomView2\\cusViewPager02\\src\\main\\res\\layout\\test.xml"
+    }
+]
